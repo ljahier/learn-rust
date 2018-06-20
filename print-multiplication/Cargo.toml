@@ -1,0 +1,6 @@
+[package]
+name = "print-multiplication"
+version = "0.1.0"
+authors = ["Lucas JAHIER <lucasjahier@protonmail.com>"]
+
+[dependencies]
