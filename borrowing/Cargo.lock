@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "print-multiplication"
+name = "borrowing"
 version = "0.1.0"
